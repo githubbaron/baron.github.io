@@ -5,13 +5,12 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/degzyaemb/image/upload/v1517214540/girl_ksxml9.jpg" alt="baron">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Name** : Baron
+
+**Description**: 本人现在是一个苦逼程序员，苦于大学没有好好学习，研究生之路又有始无终，希望能通过努力学习来改变自己现在的生活。
+
+blog主要分享自己的学习内容（数据结构，算法，goland等），不定时发博。

@@ -1,15 +1,15 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+photo: http://res.cloudinary.com/degzyaemb/image/upload/v1517214540/girl_ksxml9.jpg
+name: baron
+display_name: Baron Lam
 position: Chief Editor
 bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+github_username: baronwithyou
+facebook_username: baronwithyou
+twitter_username: baronwithyou
+instagram_username: baronwithyou
+linkedin_username: baronwithyou
+medium_username: baronwithyou
 ---
 
